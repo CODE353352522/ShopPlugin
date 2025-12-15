@@ -1,0 +1,2 @@
+# ShopPlugin
+Minecraft Shop Plugin
